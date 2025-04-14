@@ -3,7 +3,7 @@
 </div>
 
 <!-- 🧑‍💻 Introduction -->
-<div align="center"> 
+<div align="center" style="margin-top: 60px;"> 
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33; line-height: 1.8;">🧑‍💻 Introduction</h2>  
   <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 
     🎓 Computer Science, Yeungnam Univ.<br>
@@ -14,11 +14,11 @@
 </div> 
 
 <!-- 🛠️ Tech Stacks -->
-<div align="center">
+<div align="center" style="margin-top: 60px;">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🛠️ Tech Stacks</h2><br>
 
   <h3 style="color: #444; font-weight: bold;">💻 Languages</h3>
-  <div style="margin-bottom: 10px;">
+  <div style="margin: 10px 0;">
     <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white">
     <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white">
     <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=CSharp&logoColor=white">
@@ -26,8 +26,8 @@
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
   </div>
 
-  <h3 style="color: #444; font-weight: bold;">🧰 Tools</h3>
-  <div style="margin-bottom: 10px;">
+  <h3 style="color: #444; font-weight: bold; margin-top: 25px;">🧰 Tools</h3>
+  <div style="margin: 10px 0;">
     <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
     <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white">
@@ -36,14 +36,14 @@
     <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white">
   </div>
 
-  <h3 style="color: #444; font-weight: bold;">🎮 Game Engine</h3>
-  <div>
+  <h3 style="color: #444; font-weight: bold; margin-top: 25px;">🎮 Game Engine</h3>
+  <div style="margin: 10px 0;">
     <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=Unity&logoColor=white">
   </div>
 </div> 
 
 <!-- 🏅 Stats -->
-<div align="center"> 
+<div align="center" style="margin-top: 60px;"> 
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🏅 Stats</h2> 
   <img src="https://github-readme-stats.vercel.app/api?username=ManonWisely&bg_color=60,a8edea,fed6e3&title_color=020715&text_color=020715"/><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManonWisely&layout=compact&bg_color=60,a8edea,fed6e3&title_color=020715&text_color=020715"/>
