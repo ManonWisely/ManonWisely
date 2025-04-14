@@ -6,12 +6,26 @@
 <div align="center" style="margin-top: 60px;"> 
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33; line-height: 1.8;">🧑‍💻 Introduction</h2>  
   <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 
-    🎓 Computer Science, Yeungnam Univ.<br>
+    👋 Manon, Sunghyun Park
+    🎓 CS, Yeungnam Univ.<br>
     🎮 Game Dev.<br>
-    💡 Interested in Game, AI<br>
     📧 Manon0@yu.ac.kr
   </div>
 </div> 
+
+<br>
+
+<!-- Interests -->
+<div align="center">
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">💡 Interests</h2>
+  <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">
+    🎮 Game Development<br>
+    🎨 Game Design<br>
+    📝 Game Planning<br>
+    🧠 Artificial Intelligence<br>
+    🧩 Problem Solving
+  </div>
+</div>
 
 <!-- 🛠️ Tech Stacks -->
 <div align="center" style="margin-top: 60px;">
@@ -21,8 +35,8 @@
   <div style="margin: 10px 0;">
     <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white">
     <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white">
-    <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=CSharp&logoColor=white">
-    <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white">
+    <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white">
+    <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white">
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
   </div>
 
