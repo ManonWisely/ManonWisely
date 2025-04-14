@@ -1,17 +1,20 @@
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a8edea,100:fed7e3&height=120&text=Manon%20Wisely&animation=&fontColor=020715&fontSize=60" />
-    </div>
-    <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33; line-height: 1.8;"> 
-        🧑‍💻 Introduction </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 
-        🎓 Computer Science, Yeungnam Univ.</br>
-        🎮 Game Dev.</br>
-        💡 Interested in Game, AI
-        📧 Manon0@yu.ac.kr
-    </div> </div> 
-        
-    <div align="center">
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a8edea,100:fed7e3&height=120&text=Manon%20Wisely&animation=&fontColor=020715&fontSize=60" />
+</div>
+
+<!-- 🧑‍💻 Introduction -->
+<div align="center"> 
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33; line-height: 1.8;">🧑‍💻 Introduction</h2>  
+  <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 
+    🎓 Computer Science, Yeungnam Univ.<br>
+    🎮 Game Dev.<br>
+    💡 Interested in Game, AI<br>
+    📧 Manon0@yu.ac.kr
+  </div>
+</div> 
+
+<!-- 🛠️ Tech Stacks -->
+<div align="center">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🛠️ Tech Stacks</h2><br>
 
   <h3 style="color: #444; font-weight: bold;">💻 Languages</h3>
@@ -37,12 +40,11 @@
   <div>
     <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=Unity&logoColor=white">
   </div>
-  </div> 
-  
-    <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 
-        🏅 Stats </h2> <div align= "center"> 
-        <img src="https://github-readme-stats.vercel.app/api?username=ManonWisely&bg_color=60,a8edea,fed6e3&title_color=020715&text_color=020715"/> </div>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManonWisely&layout=compact&bg_color=60,a8edea,fed6e3&title_color=020715&text_color=020715"/> </div> 
-    </div>
-    
+</div> 
+
+<!-- 🏅 Stats -->
+<div align="center"> 
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🏅 Stats</h2> 
+  <img src="https://github-readme-stats.vercel.app/api?username=ManonWisely&bg_color=60,a8edea,fed6e3&title_color=020715&text_color=020715"/><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManonWisely&layout=compact&bg_color=60,a8edea,fed6e3&title_color=020715&text_color=020715"/>
+</div>
