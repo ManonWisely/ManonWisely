@@ -6,7 +6,7 @@
 <div align="center" style="margin-top: 60px;"> 
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33; line-height: 1.8;">🧑‍💻 Introduction</h2>  
   <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 
-    👋 Manon, Sunghyun Park
+    👋 Manon, Sunghyun Park<br>
     🎓 CS, Yeungnam Univ.<br>
     🎮 Game Dev.<br>
     📧 Manon0@yu.ac.kr
