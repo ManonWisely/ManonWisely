@@ -21,7 +21,6 @@
     🎨 Game Design<br>
     📝 Game Planning<br>
     🧠 Artificial Intelligence<br>
-    🧩 Problem Solving
   </div>
 </div>
 
