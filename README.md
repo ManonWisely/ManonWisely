@@ -9,7 +9,7 @@
         🎮 Game Dev.</br>
         💡 Interested in Game, AI
         📧 Manon0@yu.ac.kr
-    </div> 
+    </div> </div> 
         
     <div align="center">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🛠️ Tech Stacks</h2><br>
@@ -37,6 +37,7 @@
   <div>
     <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=Unity&logoColor=white">
   </div>
+  </div> 
   
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 
