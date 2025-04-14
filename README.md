@@ -2,8 +2,12 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a8edea,100:fed7e3&height=120&text=Manon%20Wisely&animation=&fontColor=020715&fontSize=60" />
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Introduction </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 🎓 Computer Science, Yeungnam Univ.</li>🎮 Game Dev.</li>💡 Interested in Game Systems, AI </div> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33; line-height: 1.8;"> Introduction </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 
+        🎓 Computer Science, Yeungnam Univ.</br>
+        🎮 Game Dev.</br>
+        💡 Interested in Game, AI 
+    </div> 
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
